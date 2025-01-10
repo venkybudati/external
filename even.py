@@ -6,7 +6,7 @@ else:
     print("odd")
 
 """
-
+print(one)
 num=int(input("Enter any number"))
 for i in range(0,num+1):
     if i%2!=0:
